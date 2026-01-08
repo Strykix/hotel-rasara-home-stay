@@ -1,0 +1,176 @@
+{
+  "siteSettings": {
+    "name": "Rasara Home Stay",
+    "tagline": "Your escape in Ahangama, Sri Lanka",
+    "contact": {
+      "phone": "070 201 4686",
+      "whatsapp": "94702014686",
+      "email": "info@rasara-home-stay.com",
+      "address": "2nd lane Munidasa Mawatha, Ahangama, Sri Lanka"
+    },
+    "booking": {
+      "url": "https://www.booking.com/hotel/lk/rasara-home-stay.html",
+      "buttonText": "Book Now"
+    },
+    "social": {
+      "instagram": "",
+      "googleMaps": "https://maps.google.com/?cid=5454633901577283467&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+    },
+    "seo": {
+      "title": "Rasara Home Stay | Beachfront Hotel in Ahangama, Sri Lanka",
+      "description": "Experience paradise at Rasara Home Stay. Steps from the beach Ahangama, Sri Lanka. Perfect for surfers and beach lovers."
+    },
+    "mainImage": "/images/hotel/photo-01.jpg"
+  },
+  "homepage": {
+    "hero": {
+      "title": "Welcome to Rasara Home Stay",
+      "subtitle": "Your beachfront escape in Ahangama",
+      "ctaText": "Book Your Stay",
+      "ctaUrl": "https://www.booking.com/hotel/lk/rasara-home-stay.html",
+      "backgroundImage": "/images/hotel/photo-01.jpg"
+    },
+    "about": {
+      "title": "About Us",
+      "description": "Nestled along the beautiful coast of Ahangama, Rasara Home Stay offers an unforgettable experience in Sri Lanka's southern coast. Whether you're here for world-class surf breaks or simply to unwind by the ocean, we provide the perfect blend of comfort and authentic Sri Lankan hospitality.",
+      "image": "/images/hotel/photo-02.jpg"
+    },
+    "features": [
+      {
+        "title": "Beachfront Location",
+        "description": "Steps away from pristine sandy beaches",
+        "icon": "location"
+      },
+      {
+        "title": "Local Experience",
+        "description": "Immerse yourself in authentic Sri Lankan culture and cuisine",
+        "icon": "culture"
+      },
+      {
+        "title": "Surf Paradise",
+        "description": "Access to world-renowned surf breaks",
+        "icon": "surf"
+      }
+    ],
+    "gallery": {
+      "title": "Gallery",
+      "subtitle": "Discover our paradise",
+      "images": [
+        {
+          "src": "/images/hotel/photo-01.jpg",
+          "alt": "Rasara Home Stay - Photo 1",
+          "caption": "Rasara Home Stay"
+        },
+        {
+          "src": "/images/hotel/photo-02.jpg",
+          "alt": "Rasara Home Stay - Photo 2",
+          "caption": "Rasara Home Stay - Vue 2"
+        },
+        {
+          "src": "/images/hotel/photo-03.jpg",
+          "alt": "Rasara Home Stay - Photo 3",
+          "caption": "Rasara Home Stay - Vue 3"
+        },
+        {
+          "src": "/images/hotel/photo-04.jpg",
+          "alt": "Rasara Home Stay - Photo 4",
+          "caption": "Rasara Home Stay - Vue 4"
+        },
+        {
+          "src": "/images/hotel/photo-05.jpg",
+          "alt": "Rasara Home Stay - Photo 5",
+          "caption": "Rasara Home Stay - Vue 5"
+        },
+        {
+          "src": "/images/hotel/photo-06.jpg",
+          "alt": "Rasara Home Stay - Photo 6",
+          "caption": "Rasara Home Stay - Vue 6"
+        },
+        {
+          "src": "/images/hotel/photo-07.jpg",
+          "alt": "Rasara Home Stay - Photo 7",
+          "caption": "Rasara Home Stay - Vue 7"
+        },
+        {
+          "src": "/images/hotel/photo-08.jpg",
+          "alt": "Rasara Home Stay - Photo 8",
+          "caption": "Rasara Home Stay - Vue 8"
+        },
+        {
+          "src": "/images/hotel/photo-09.jpg",
+          "alt": "Rasara Home Stay - Photo 9",
+          "caption": "Rasara Home Stay - Vue 9"
+        },
+        {
+          "src": "/images/hotel/photo-10.jpg",
+          "alt": "Rasara Home Stay - Photo 10",
+          "caption": "Rasara Home Stay - Vue 10"
+        }
+      ]
+    },
+    "cta": {
+      "title": "Ready for Paradise?",
+      "description": "Book your stay at Rasara Home Stay and discover the magic of Ahangama.",
+      "buttonText": "Check Availability",
+      "buttonUrl": "https://www.booking.com/hotel/lk/rasara-home-stay.html",
+      "backgroundImage": "/images/hotel/photo-10.jpg"
+    }
+  },
+  "footer": {
+    "copyright": "2026 Rasara Home Stay. All rights reserved.",
+    "address": "2nd lane Munidasa Mawatha, Ahangama, Sri Lanka",
+    "phone": "070 201 4686"
+  },
+  "gallery": [
+    {
+      "src": "/images/hotel/photo-01.jpg",
+      "alt": "Rasara Home Stay - Photo 1",
+      "caption": "Rasara Home Stay"
+    },
+    {
+      "src": "/images/hotel/photo-02.jpg",
+      "alt": "Rasara Home Stay - Photo 2",
+      "caption": "Rasara Home Stay - Vue 2"
+    },
+    {
+      "src": "/images/hotel/photo-03.jpg",
+      "alt": "Rasara Home Stay - Photo 3",
+      "caption": "Rasara Home Stay - Vue 3"
+    },
+    {
+      "src": "/images/hotel/photo-04.jpg",
+      "alt": "Rasara Home Stay - Photo 4",
+      "caption": "Rasara Home Stay - Vue 4"
+    },
+    {
+      "src": "/images/hotel/photo-05.jpg",
+      "alt": "Rasara Home Stay - Photo 5",
+      "caption": "Rasara Home Stay - Vue 5"
+    },
+    {
+      "src": "/images/hotel/photo-06.jpg",
+      "alt": "Rasara Home Stay - Photo 6",
+      "caption": "Rasara Home Stay - Vue 6"
+    },
+    {
+      "src": "/images/hotel/photo-07.jpg",
+      "alt": "Rasara Home Stay - Photo 7",
+      "caption": "Rasara Home Stay - Vue 7"
+    },
+    {
+      "src": "/images/hotel/photo-08.jpg",
+      "alt": "Rasara Home Stay - Photo 8",
+      "caption": "Rasara Home Stay - Vue 8"
+    },
+    {
+      "src": "/images/hotel/photo-09.jpg",
+      "alt": "Rasara Home Stay - Photo 9",
+      "caption": "Rasara Home Stay - Vue 9"
+    },
+    {
+      "src": "/images/hotel/photo-10.jpg",
+      "alt": "Rasara Home Stay - Photo 10",
+      "caption": "Rasara Home Stay - Vue 10"
+    }
+  ]
+}
